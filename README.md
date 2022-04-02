@@ -4,4 +4,4 @@
 ## LOGO設計
 ###### 我們採用接受度高的黃色小鴨作為logo，營造平易近人的形象；在設計Duckside商標字樣時也將它的臉融合到D的文字中。
 ## 網站架構
-![image]()
+![image](https://github.com/imChingHsuan/duckside/blob/main/public/assets/images/網站架構.png)
